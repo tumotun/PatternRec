@@ -1,6 +1,6 @@
 # PatternRecs
 
-This is the project for the course CSC 5331.s  
+This is the project for the course CSC 5331.
 
 **data**  includes the data used by the program.
 
