@@ -9,7 +9,10 @@ This is the project for the course CSC 5331.
 The program is written under Python 2.7. 
 It requires third party module: matplotlib, numpy. 
 
-To run the program, simply enter $ python plotting.py
+To run the program, simply enter 
+~~~
+python plotting.py
+~~~
 It will output a txt file with 4 list of data: 
 - cost value in the testing data
 - prediction rate for the testing data
